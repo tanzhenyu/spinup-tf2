@@ -1,4 +1,5 @@
 # Algorithms
+from spinup.algos.ddpg.ddpg import ddpg
 from spinup.algos.ppo.ppo import ppo
 
 # Loggers
